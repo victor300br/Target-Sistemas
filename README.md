@@ -7,4 +7,4 @@ Este repositório contém soluções para dois problemas do teste Técnico:
 
 ## Sobre
 
-Escolhi implementar essas soluções em Python, pois é uma linguagem simples e fácil de rodar, tornando o aprendizado e a execução mais acessíveis.
+Escolhi implementar essas soluções em Python, pois é uma linguagem simples e fácil de rodar.
